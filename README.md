@@ -26,6 +26,6 @@
 Результат работы (ссылка на страницу):<br>
 • https://paramonovivan.github.io/Commenting_System_PJ-07/<br><br>
 
-‣ <b>Результат работы - Страницы с игрой</b><br>
+‣ <b>Результат работы - Страницы с системой комментирования</b><br>
 
 ![2023-10-23_17-29-34](https://github.com/ParamonovIvan/Commenting_System_PJ-07/assets/131868856/4c7835ef-e1f3-42ba-a6f9-98064aa23d2d)
